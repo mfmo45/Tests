@@ -1,11 +1,11 @@
-#RFactor Calculation 
+# RFactor Calculation 
 
 Python program to calculate the R factor (precipitation) for the RUSLE model. 
 
 -Uses the equation from Diodato and Belucchi 
 
 
-##Dependencies 
+## Dependencies 
 
 -numpy 
 -pandas
@@ -17,7 +17,7 @@ Python program to calculate the R factor (precipitation) for the RUSLE model.
 -re
 -math
 
-##Requirements 
+## Requirements 
 
 +Input raster files must be in .txt ASCII format 
 +File name format: Only numbers must be those for the date in the format YYYYMM
