@@ -27,3 +27,9 @@ conda install -c conda-forge gdal
 
 * Input raster files must be in .txt ASCII format 
 * File name format: Only numbers must be those for the date in the format YYYYMM
+
+## Authorized users
+
+* me
+* me
+* and me!
