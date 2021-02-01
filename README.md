@@ -17,6 +17,12 @@ Python program to calculate the R factor (precipitation) for the RUSLE model.
 * re
 * math
 
+### Installing gdal in Anaconda promt: 
+
+conda install -c conda-forge gdal
+
+[Also check this link](https://anaconda.org/conda-forge/gdal)
+
 ## Requirements 
 
 * Input raster files must be in .txt ASCII format 
